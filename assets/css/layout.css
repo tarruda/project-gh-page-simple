@@ -98,6 +98,7 @@ blockquote {
 }
 
 #footer-wrap {
+        height: 100px;
         background: #212121;
         color: #F2F2F2;
 }
