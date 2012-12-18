@@ -5,7 +5,9 @@ author: Author name
 authorUrl: https://github.com
 projectName: project-name
 projectDescription: Project Description
-downloadUrl: assets/download-v0.0.1.zip
+githubUrl: https://github.com
+zipDownloadUrl: assets/download-v0.0.1.zip
+tarDownloadUrl: assets/download-v0.0.1.tgz
 css:
   - assets/css/index.css
 js:
