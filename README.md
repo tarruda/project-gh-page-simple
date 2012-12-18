@@ -1,1 +1,1 @@
-Jekyll starter directory for those avoiding complexity
+Jekyll starter directory for those who like simplicity

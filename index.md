@@ -3,15 +3,19 @@ title: Title
 layout: default
 author: Author name
 authorUrl: https://github.com
-projectName: Project-name
+projectName: project-name
 projectDescription: Project Description
-downloadUrl: dist/download-v0.0.1.zip
+downloadUrl: assets/download-v0.0.1.zip
+css:
+  - assets/css/index.css
+js:
+  - assets/js/index.js
 ---
 ### Introduction
 Introduction
 
 ### Usage
-{% highlight sh %}
+{% highlight bash %}
 $ needed
 $ commands
 $ to
